@@ -8,3 +8,5 @@
 4. Install the required libraries pip install -r requirements.txt
 5. run python app.py
 
+# Demo
+
